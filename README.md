@@ -13,6 +13,7 @@ Site desenvolvido para plataforma de Stream de cursos online.
 -   [ ] Empregando e Identificando elementos através do figma;
 -   [ ] criação de um repositorio para armazenar o projeto;
 -   [ ] Realização de deploy de um site através do Github Pages/Vercel;
+-   [ ] Trabalhando com páginas continuas;
 
 
 
